@@ -1,6 +1,7 @@
 # Ismael Omar Coding Challenge For Mixam
 
 ## How to run
+This project was built using Java 17 and Gradle 8.1.1, if you use older versions of those the application may not run as expected.
 
 To run this application, you can use the following command:
 
@@ -21,5 +22,6 @@ After running the application and opening the link above, you will be presented 
 -  Your Message
 
 Validation will be done once you have submitted these details in the form and relevant feedback will be given.
+
 
 
